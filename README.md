@@ -5,7 +5,7 @@
 
 <img align="right" alt="coder" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="400px" />
 
-- 🔭 I’m currently working on [personal portfolio](https://github.com/Grenish/personal-portfolio)
+- 🔭 I’m currently working on [BrandWalk](https://github.com/Grenish/brand-walk)
 
 - 🌱 I’m currently learning **MERN Stack**
 
