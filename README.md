@@ -6,13 +6,13 @@
 
 <img align="right" alt="coder" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="400px" />
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [codersclub](https://github.com/Grenish/codersclub)
+- 👯 I’m looking to collaborate on [Detoxify](https://github.com/Grenish/detoxify)
 
 - 💬 Ask me about **ReactJs, NextJs, Javascript**
 
-- 📫 How to reach me [**grenishrai**](https://grenishrai.vercel.app/)
+- 📫 How to reach me [**grenishrai**](https://grenishrai.icu/)
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/grenish_rai)
