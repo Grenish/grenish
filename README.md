@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Grenish Rai</h1>
 <h3 align="center">A passionate Full Stack Web Developer and creative Designer dedicated to simplifying the task and crafting fresh, enjoyable experiences for users.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Grenish&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <img align="right" alt="coder" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="400px" />
 
