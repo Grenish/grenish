@@ -27,6 +27,9 @@
   <a href="mailto:mrcoder2033d@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://grenisharai.icu" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f0d1d87a-3947-4471-8f7a-c1147ffd3ae4" width="52" height="40" alt="grenish logo"  />
+  </a>
 </div>
 
 ###
