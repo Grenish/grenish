@@ -3,11 +3,12 @@
 
 ###
 
-<p align="left">A full-stack web developer and designer focused on creating practical, user-friendly solutions and turning thoughtful ideas into functional, well-crafted projects that address real-world needs.</p>
 
-###
 
 <img align="left" height="200" src="https://camo.githubusercontent.com/a03d2ed7712c058954d47b959f0bed2b837595cf2ac1d4383cdcd5e5b84c40a1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966"  />
+
+###
+<p align="left">A full-stack web developer and designer focused on creating practical, user-friendly solutions and turning thoughtful ideas into functional, well-crafted projects that address real-world needs.</p>
 
 ###
 
