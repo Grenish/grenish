@@ -91,16 +91,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-
-###
-
-<img src="https://raw.githubusercontent.com/grenish/grenish/output/snake.svg" alt="Snake animation" />
-
-###
