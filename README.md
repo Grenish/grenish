@@ -29,13 +29,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://grenishrai.icu" target="_blank">
-    <img src="https://github.com/user-attachments/assets/f0d1d87a-3947-4471-8f7a-c1147ffd3ae4" width="40" height="40" alt="grenish logo" style="object-fit: cover;"  />
+    <img src="https://github.com/user-attachments/assets/ac2b5bba-09a2-4918-b690-35aa24b963f0" width="40" height="40" alt="grenish logo" style="object-fit: cover;"  />
   </a>
   <a href="https://buymeacoffee.com/grenish" target="_blank">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt0Njd4dGswc3hybWxkM3F5dTltbmZiNnp4cWtzYndqeWNhbDJyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" width="40" height="40" alt="grenish logo" />
   </a>
 </div>
-
 
 
 ###
