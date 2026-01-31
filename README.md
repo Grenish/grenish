@@ -2,12 +2,6 @@
 <h1 align="center">Hey there👋, I'm Grenish Rai</h1>
 
 ###
-
-
-
-<img align="left" height="200" src="https://camo.githubusercontent.com/a03d2ed7712c058954d47b959f0bed2b837595cf2ac1d4383cdcd5e5b84c40a1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966"  />
-
-###
 <p align="left">A full-stack web developer and designer focused on creating practical, user-friendly solutions and turning thoughtful ideas into functional, well-crafted projects that address real-world needs.</p>
 
 ###
@@ -17,7 +11,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Grenish_Rai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/twitter-x.svg" width="52" height="40" alt="twitter logo"  />
+    
   </a>
   <a href="https://codepen.io/grenish_rai" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
