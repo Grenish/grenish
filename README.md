@@ -14,17 +14,8 @@
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/twitter-x.svg" width="52" height="40" alt="twitter logo"  />
     
   </a>
-  <a href="https://codepen.io/grenish_rai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-  <a href="https://dev.to/grenishrai" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <a href="mailto:mrcoder2033d@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://grenishrai.icu" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ac2b5bba-09a2-4918-b690-35aa24b963f0" width="40" height="40" alt="grenish logo" style="object-fit: cover;"  />
+  <a href="https://grenishrai.pro" target="_blank">
+    <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://grenishrai.pro&size=128" width="40" height="40" alt="grenish logo" style="object-fit: cover;"  />
   </a>
   <a href="https://buymeacoffee.com/grenish" target="_blank">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt0Njd4dGswc3hybWxkM3F5dTltbmZiNnp4cWtzYndqeWNhbDJyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" width="40" height="40" alt="grenish logo" />
